@@ -42,3 +42,7 @@
   git status --no-column
   ```
   
+  - **We can also use commands in combination**
+  ```
+  git status -sb
+  ```
