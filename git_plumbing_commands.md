@@ -1,6 +1,6 @@
 ## Plumbing commands are not used on daily bases but are low level commands to understand how git works internally.
 
-#### To get Hash of file. It uses SHA-1 algorithm to calculate hash for the content of file.
+#### To get Hash of file. It uses SHA-1 algorithm to calculate hash for the content of file. Content in file is stored as blob.
 - `git hash-object {file-name}`
 
 #### To see content type of hash.
